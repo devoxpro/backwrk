@@ -216,42 +216,42 @@
             "active" : "true",
             "active_reward" : "false",
             "name" : "Puzzle",
-            "ico" : "https://9asso.github.io/published/imgs/btpuzzle.png",
+            "ico" : "https://i.ibb.co/sR3cQts/Untitled-design-2.png",
             "bg" : "#ffffff"
         },
         {
             "active" : "true",
             "active_reward" : "false",
             "name" : "Questions",
-            "ico" : "https://9asso.github.io/published/imgs/btquiz.png",
+            "ico" : "https://i.ibb.co/3Cm3cw0/btnquestion.png",
             "bg" : "#ffffff"
         },
         {
             "active" : "true",
             "active_reward" : "false",
             "name" : "Wallpapers",
-            "ico" : "https://9asso.github.io/published/imgs/btwalls.png",
+            "ico" : "https://i.ibb.co/hdt8Hct/btnwall.png",
             "bg" : "#ffffff"
         },
         {
             "active" : "true",
             "active_reward" : "false",
             "name" : "Scratch",
-            "ico" : "https://9asso.github.io/published/imgs/btscratch.png",
+            "ico" : "https://i.ibb.co/r4mhcrK/scartch.png",
             "bg" : "#ffffff"
         },
         {
             "active" : "false",
             "active_reward" : "false",
             "name" : "Games",
-            "ico" : "https://9asso.github.io/published/imgs/btgames.png",
+            "ico" : "https://i.ibb.co/m0zZ06V/gamebtn.png",
             "bg" : "#673AB7"
         },
         {
             "active" : "false",
             "active_reward" : "false",
             "name" : "More",
-            "ico" : "https://9asso.github.io/published/imgs/btmore.png",
+            "ico" : "https://i.ibb.co/D1mhhb4/scartchbtn.png",
             "bg" : "#3F51B5"
         }
     ],
